@@ -7,7 +7,7 @@ import copy from 'rollup-plugin-copy'
 import livereload from 'rollup-plugin-livereload'
 import serve from 'rollup-plugin-serve'
 
-const port = 10101 // visit http://localhost:10101
+const port = 6000 // visit http://localhost:6000
 
 export default  {
         input: 'index.ts',
