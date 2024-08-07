@@ -1,2 +1,3 @@
-# demo
-LeaferJS 的演示模版，可以运行官网示例代码
+# Playground 环境
+
+复制官网示例代码到 `index.ts` 中，可以实时查看运行效果。
