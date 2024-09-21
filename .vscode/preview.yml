@@ -1,0 +1,10 @@
+# .vscode/preview.yml
+autoOpen: true # 打开工作空间时是否自动开启所有应用的预览
+apps:
+  - port: 6000 # 应用的端口
+    run: npm install && npm run start # 应用的启动命令
+    root: ./ # 应用的启动目录
+    name: LeaferJS # 应用名称
+    description: LeaferJS 是一款好用的 Canvas 渲染引擎，革新的体验。高效绘图 、UI 交互（小游戏、互动应用、组态）、图形编辑，前端开发必备~ # 应用描述
+    autoOpen: true # 打开工作空间时是否自动开启预览（优先级高于根级 autoOpen）
+    autoPreview: true # 是否自动打开预览, 若无则默认为true
