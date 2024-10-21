@@ -8,4 +8,6 @@
 
 官网：https://www.leaferjs.com
 
-📗[图文并茂、由浅入深的了解 LeaferJS](https://leaferjs.com/ui/blog/2024-07-09.html)
+📗 [图文并茂、由浅入深的了解 LeaferJS](https://leaferjs.com/ui/blog/2024-07-09.html)
+
+📙 [1024 “画龙点睛“ 比赛](https://cloudstudio.net/a/21702860087578624)
