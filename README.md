@@ -10,4 +10,4 @@
 
 📗 [图文并茂、由浅入深的了解 LeaferJS](https://leaferjs.com/ui/blog/2024-07-09.html)
 
-📙 [1024 “画龙点睛“ 比赛](https://cloudstudio.net/a/21702860087578624)
+📙 [画龙点睛 - 小游戏开发指南 (示例代码)](https://www.leaferjs.com/ui/contest/guide.html)
